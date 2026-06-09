@@ -1,6 +1,6 @@
 # Local .terraform directories
 .terraform/
-
+refinamento/
 # .tfstate files
 *.tfstate
 *.tfstate.*
